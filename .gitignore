@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+.venv/
+
+# Caché de Python y Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datos pesados descargados localmente
+data/KDD+.txt
+data/*.zip
