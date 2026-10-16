@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-Random%20Forest-orange?logo=scikit-learn)
+![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Network Anomaly Detector (Random Forest & NSL-KDD)
 
 Sistema de clasificación de tráfico de red en tiempo real (Normal vs. Ciberataques) utilizando aprendizaje automático con el algoritmo Random Forest, optimizado sobre el dataset benchmark NSL-KDD y empaquetado en una arquitectura modular de Scikit-Learn.
